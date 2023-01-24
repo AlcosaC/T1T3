@@ -11,7 +11,7 @@
 	</coverage>
 	<testsuites>
 		<testsuite name="test">
-			<directory suffix="CalculadoraTest.php">.</directory>
+			<directory suffix=".php">.</directory>
 		</testsuite>
 	</testsuites>
 	<logging/>
